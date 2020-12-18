@@ -234,6 +234,7 @@ namespace Logs
 
         private void Button2_Click(object sender, EventArgs e)
         {
+            //TEST
             if (button2.Text == "Запустить")
             {
                 if (comboBox1.Text == "")
